@@ -1,3 +1,3 @@
 # Private until Giveaway details announcement
 
-## Lucky draw Ark NFT contract - TEST: [GnLLBQOqrvJlKo4Ac2h4RoA6SAukMqGtp5R7x9mehTk](https://api.exm.dev/read/GnLLBQOqrvJlKo4Ac2h4RoA6SAukMqGtp5R7x9mehTk)
+## Lucky draw Ark NFT contract - TEST: [5VSH1JeQjsZMJ7KFuaGj_U94lOqXRDLAEvwobbpTdzY](https://api.exm.dev/read/5VSH1JeQjsZMJ7KFuaGj_U94lOqXRDLAEvwobbpTdzY)
