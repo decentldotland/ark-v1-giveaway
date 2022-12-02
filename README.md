@@ -1,3 +1,8 @@
-# Private until Giveaway details announcement
+## Ark V1 <-> V2 NFT lucky draw
 
-## Lucky draw Ark NFT contract - TEST: [5VSH1JeQjsZMJ7KFuaGj_U94lOqXRDLAEvwobbpTdzY](https://api.exm.dev/read/5VSH1JeQjsZMJ7KFuaGj_U94lOqXRDLAEvwobbpTdzY)
+## Contract
+- address: [eaXu4_us2F980eAzkpPysiJPqueu1kaGEBS4OBuKpJ0](https://api.exm.dev/read/eaXu4_us2F980eAzkpPysiJPqueu1kaGEBS4OBuKpJ0)
+- [source code](./ark-nft-draw-contract/draw.js)
+
+## License 
+This repository is licensed under the [MIT License](./LICENSE)
